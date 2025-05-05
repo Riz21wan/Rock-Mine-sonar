@@ -1,6 +1,6 @@
 # 🎯 Sonar Mine Detection Using Logistic Regression
 
-This project uses machine learning (Logistic Regression) to classify sonar signals as either **Rock** or **Mine** based on their frequency response data. The dataset consists of 60 numerical features, each representing the sonar signal's strength at different frequencies.
+This project uses machine learning (Logistic Regression) to classify sonar signals as either **Rock** or **Mine** based on their frequency response data. The dataset consists of numerical features, each representing the sonar signal's strength at different frequencies.
 
 ---
 
